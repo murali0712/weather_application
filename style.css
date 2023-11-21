@@ -61,7 +61,7 @@ body {
     border: 1px solid #ccc;
     border-radius: 4px;
     margin-top: 20px;
-    background-color:#5372F0;; /* Add grey background color */
+    background-color:#5372F0;
    }  
 
 
@@ -81,7 +81,7 @@ body {
 .weather-image img {
     max-width: 100%;
     height: auto;
-    max-height: 200px; /* Set a maximum height as needed */
+    max-height: 200px; 
 }
 
 body {
@@ -95,7 +95,7 @@ body {
     color: rgba(10, 8, 8, 0.1);
     font-weight: bold;
     z-index: -1;
-    animation-duration: 25s; /* Adjust the duration as needed */
+    animation-duration: 25s; 
     animation-iteration-count: infinite;
     animation-timing-function: linear;
     animation-name: moveText;
